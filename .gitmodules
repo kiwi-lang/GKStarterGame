@@ -1,0 +1,30 @@
+[submodule "Plugins/CommonLoadingScreen"]
+	path = Plugins/CommonLoadingScreen
+	url = https://github.com/kiwi-lang/CommonLoadingScreen.git
+[submodule "Plugins/ModularGameplayActors"]
+	path = Plugins/ModularGameplayActors
+	url = https://github.com/kiwi-lang/ModularGameplayActors.git
+[submodule "Plugins/CommonUser"]
+	path = Plugins/CommonUser
+	url = https://github.com/kiwi-lang/CommonUser.git
+[submodule "Plugins/CommonGame"]
+	path = Plugins/CommonGame
+	url = git@github.com:kiwi-lang/CommonGame.git
+[submodule "Plugins/GameSettings"]
+	path = Plugins/GameSettings
+	url = git@github.com:kiwi-lang/GameSettings.git
+[submodule "Plugins/GameSubtitles"]
+	path = Plugins/GameSubtitles
+	url = git@github.com:kiwi-lang/GameSubtitles.git
+[submodule "Plugins/GameplayMessageRouter"]
+	path = Plugins/GameplayMessageRouter
+	url = git@github.com:kiwi-lang/GameplayMessageRouter.git
+[submodule "Plugins/UIExtension"]
+	path = Plugins/UIExtension
+	url = git@github.com:kiwi-lang/UIExtension.git
+[submodule "Plugins/AsyncMixin"]
+	path = Plugins/AsyncMixin
+	url = git@github.com:kiwi-lang/AsyncMixin.git
+[submodule "Plugins/LyraGamePlugin"]
+	path = Plugins/LyraGamePlugin
+	url = git@github.com:kiwi-lang/LyraGamePlugin.git
